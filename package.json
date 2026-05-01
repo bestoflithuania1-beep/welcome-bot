@@ -1,4 +1,4 @@
-```json
+json
      {
        "name": "welcome-bot",
        "version": "1.0.0",
@@ -6,4 +6,4 @@
        "scripts": { "start": "node bot.js" },
        "dependencies": { "discord.js": "^14.16.3" }
      }
-     ```
+
